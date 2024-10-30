@@ -1,0 +1,24 @@
+.error-div{
+    padding: 20px;
+    background: yellow;
+    border: 1px solid red;
+    display: none;
+}
+
+.cross-rss-content{
+    
+}
+
+.rss-title{
+    font-size: 110%;
+}
+
+ul.rss-list{
+    padding-left: 10px;
+}
+
+li.rss-item{
+    padding: 5px 0 5px 10px;
+    text-align: justify;
+}
+
